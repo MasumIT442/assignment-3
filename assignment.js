@@ -10,7 +10,6 @@ console.log(jhankarSir)
 // feetToMile End 
 
 // woodCalculation Start 
-I am new in java. Not clear everything, trying hard to understand. So,
-// u r requested to pray for menubar. 
+// I am new in java. Not clear everything, trying hard to understand. So,
+// u r requested to pray for me.
 
-}
